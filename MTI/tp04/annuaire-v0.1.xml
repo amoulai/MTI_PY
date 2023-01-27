@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annuaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		  xsi:noNamespaceSchemaLocation="annuaire.xsd"><personne>
+		<identite>
+			<nom>Achour</nom>
+			<prenom>Hamza</prenom>
+			<adresse>
+				<rue>25 avenue de 05 juillet 1962 </rue>
+				<code-postale>16000</code-postale>
+				<ville>Alger</ville>
+				<telephone type="mobile">071002500</telephone>
+			</adresse>
+		</identite>
+	</personne><personne>
+		<identite>
+			<nom>AOmar</nom>
+			<prenom>Ahmed</prenom>
+			<adresse>
+				<rue>18 avenue du Ibn Badis</rue>
+				<code-postale>10000</code-postale>
+				<ville>Bouira</ville>
+				<telephone type="fixe">026942525</telephone>
+				<telephone type="mobile">050252525</telephone>
+			</adresse>
+		</identite>
+	</personne><personne>
+		<identite>
+			<nom>Alouache</nom>
+			<prenom>Ayoub</prenom>
+			<adresse>
+				<rue>18 avenue du Didouche Mourad</rue>
+				<code-postale>42000</code-postale>
+				<ville>Tipaza</ville>
+				<telephone type="fixe">025942525</telephone>
+				<telephone type="mobile">051252525</telephone>
+			</adresse>
+		</identite>
+	</personne><personne>
+		<identite>
+			<nom>Khaladi</nom>
+			<prenom>Razika</prenom>
+			<adresse>
+				<rue>18 Ahmed Ben Aissa</rue>
+				<code-postale>10000</code-postale>
+				<ville>Bouira</ville>
+				<telephone type="fixe">026666666</telephone>
+				<telephone type="mobile">052525250</telephone>
+			</adresse>
+		</identite>
+	</personne><personne>
+		<identite>
+			<nom>Benkadour</nom>
+			<prenom>Ahmed</prenom>
+			<adresse>
+				<rue>18 avenue du Ibn Badis</rue>
+				<code-postale>10000</code-postale>
+				<ville>Ain bessem</ville>
+			</adresse>
+		</identite>
+	</personne><personne>
+		<identite>
+			<nom>Ribiai</nom>
+			<prenom>Hamada</prenom>
+			<adresse>
+				<rue>18 avenue du Ibn Badis</rue>
+				<code-postale>10000</code-postale>
+				<ville>Bouira</ville>
+			</adresse>
+		</identite>
+	</personne></annuaire>
